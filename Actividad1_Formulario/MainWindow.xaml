@@ -9,7 +9,7 @@
         Width="764.333"
         Height="278.5"
         MinWidth="500"
-        MaxWidth="900">
+        MaxWidth="900" >
     <Window.Resources>
         <Style TargetType="{x:Type Label}"
                x:Key="Textos">
